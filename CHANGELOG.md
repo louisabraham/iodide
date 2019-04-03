@@ -1,4 +1,5 @@
 # (Unreleased; add upcoming change notes here)
+- introduces iodide.file API
 
 # 0.5.0 (2019-03-28)
 
